@@ -4,7 +4,7 @@
 <div>
   <h2> 🔍 Dá uma olhada:</h2>
   <img src="https://cdn.discordapp.com/attachments/897262817776902168/924652274930835517/unknown.png" />
-  <h5 align="center"><a href="https://desafio16-codelandia.netlify.app">ACESSE AQUI O PROJETO!</a> </h5>
+  <h5 align="center"><a href="https://desafio16-codelandia.netlify.app">LINK DO PROJETO!</a> </h5>
 </div>
 
 <div>
